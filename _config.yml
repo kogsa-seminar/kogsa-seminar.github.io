@@ -78,7 +78,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: kogsa
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
     share: false
@@ -95,13 +95,6 @@ social:
     username: kogsa-seminar
     url: https://github.com/kogsa-seminar
     desc: Fork me on GitHub
-    share: true
-
-  - name: LinkedIn
-    icon: linkedin
-    username: kogsa
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
     share: true
 
   - name: Google+
@@ -123,6 +116,13 @@ social:
     username: "kogsa"
     url: "https://www.instagram.com/upennkogsa/"
     desc: Follow me on Instagram
+    share: true
+
+  - name: LinkedIn
+    icon: linkedin
+    username: kogsa
+    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    desc: Connect with me on LinkedIn
     share: true
 
   - name: Pinterest
@@ -179,7 +179,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
