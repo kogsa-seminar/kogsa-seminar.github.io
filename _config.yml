@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Kogsa Seminar
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Interdisciplinary seminar community dedicated to sharing diverse perspectives across fields and sparking creative collaboration"
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
@@ -99,7 +99,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: kogsa
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
     share: true
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -120,10 +120,10 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: ""
-    url: ""
+    username: "kogsa"
+    url: "https://www.instagram.com/upennkogsa/"
     desc: Follow me on Instagram
-    share: false
+    share: true
 
   - name: Pinterest
     icon: pinterest
